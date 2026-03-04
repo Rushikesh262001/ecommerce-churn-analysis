@@ -18,6 +18,38 @@ Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 3. **Champions segment** (8,600 customers) has the lowest churn at 83%
 4. **Lost + Hibernating** segments show 100% churn probability
 
+## 📊 Visualizations
+
+### RFM Customer Segments
+<img width="1200" height="750" alt="rfm_segments" src="https://github.com/user-attachments/assets/999410fc-5cb1-47b5-9f17-e394daab546e" />
+
+
+### What Drives Churn?
+<img width="1200" height="750" alt="feature_importance" src="https://github.com/user-attachments/assets/bc7eb9eb-c4bc-42f0-ad09-6ec7bfe4fa79" />
+
+
+
+### Churn Risk by Segment
+<img width="1200" height="750" alt="churn_by_segment" src="https://github.com/user-attachments/assets/6893c2ec-d4c3-4fcc-bda6-089fe862acce" />
+
+```
+
+---
+
+**Fix 3 — Add repo description + topics**
+
+On your repo main page, click the ⚙️ gear icon next to "About" on the right side and add:
+
+**Description:**
+```
+Customer churn analysis on 93K+ e-commerce customers using RFM segmentation and Random Forest (AUC 0.98)
+```
+
+**Topics (click Add topics):**
+```
+python  pandas  machine-learning  data-analysis  
+churn-prediction  random-forest  rfm-analysis  kaggle
+
 ## 🤖 Model Performance
 | Model | AUC Score |
 |-------|-----------|
